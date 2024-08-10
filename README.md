@@ -1,15 +1,13 @@
-# Chem 274B: Software Engineering Fundamentals for
-#            Molecular Sciences 
+# Chem 274B: Software Engineering Fundamentals \
 # University of California, Berkeley
 # December 2023
 
-# 
-# Group 13
+
 # Date Created: December 2023
 #
 # Directory Path: Final3/
 
-This is the main directory for Group 13's final project. 
+
 This is our implementation of a general purpose library of a cellular automata
 that can be used in a variety of applications to model different phenomena. 
 
